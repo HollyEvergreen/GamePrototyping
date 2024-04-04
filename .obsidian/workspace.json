@@ -1,0 +1,194 @@
+{
+  "main": {
+    "id": "94320c9171aebb4e",
+    "type": "split",
+    "children": [
+      {
+        "id": "3fcc99d247edc611",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "89f664e86b6c4999",
+            "type": "leaf",
+            "state": {
+              "type": "excalidraw",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-04-03 19.33.03.excalidraw.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "80bc64f1729ef624",
+    "type": "split",
+    "children": [
+      {
+        "id": "3d675eaf4011fdf7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e0ecb8adc8f4497d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "312ec23c8e45cbc0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "0c9f9f151538b552",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "e8d723ea88f5f7a8",
+    "type": "split",
+    "children": [
+      {
+        "id": "1105e245583e149c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "65595cecfabc7f6b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-04-03 19.33.03.excalidraw.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3731583a8b2e06f0",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-04-03 19.33.03.excalidraw.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2bbeed2b1b5b247b",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "0a12cb6dcf318dd3",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Excalidraw/Drawing 2024-04-03 19.33.03.excalidraw.md"
+              }
+            }
+          },
+          {
+            "id": "f79bada5d1445c2c",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "50742774f99e2f62",
+            "type": "leaf",
+            "state": {
+              "type": "reminder-list",
+              "state": {}
+            }
+          }
+        ]
+      },
+      {
+        "id": "53687f4f60a5215f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7191467d9745a1e5",
+            "type": "leaf",
+            "state": {
+              "type": "fantasy-statblocks-creature-pane",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-5e-statblocks:Open Creature pane": false,
+      "card-board:CardBoard": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false
+    }
+  },
+  "active": "89f664e86b6c4999",
+  "lastOpenFiles": [
+    "Excalidraw/Drawing 2024-04-03 19.33.03.excalidraw.md",
+    "Excalidraw",
+    "Untitled.canvas",
+    "Game Ideas.canvas",
+    "Screenshot 2024-04-03 162730.png",
+    "Welcome.md",
+    "create a link.md",
+    "Screenshot 2024-04-03 163138.png",
+    "Screenshot 2024-04-03 163035.png",
+    "Screenshot 2024-04-03 162822.png",
+    "game ideas.md"
+  ]
+}

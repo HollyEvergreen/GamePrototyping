@@ -1,0 +1,16 @@
+{
+  "basePath": "https://www.peerdraft.app/cm/",
+  "subscriptionAPI": "https://www.peerdraft.app/subscription",
+  "connectAPI": "https://www.peerdraft.app/subscription/connect",
+  "sessionAPI": "https://www.peerdraft.app/session",
+  "sync": "wss://www.peerdraft.app/sync",
+  "signaling": "wss://www.peerdraft.app/signal",
+  "name": "Holly",
+  "oid": "ce7c6e1a-8d65-421a-8fc9-d9929a576fda",
+  "plan": {
+    "type": "hobby",
+    "email": ""
+  },
+  "duration": 0,
+  "version": "2.0.0"
+}

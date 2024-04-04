@@ -1,0 +1,17 @@
+{
+	"nodes":[
+		{"id":"57b7a2af9459de58","type":"text","text":"MAIN IDEA","x":-205,"y":60,"width":250,"height":60},
+		{"id":"fc0c916edcd0b12e","type":"file","file":"Screenshot 2024-04-03 162730.png","x":-280,"y":-420,"width":400,"height":256},
+		{"id":"ebc72b29a8eb7f99","type":"text","text":"add ideas\n","x":-149,"y":520,"width":139,"height":60},
+		{"id":"5e0748091bc7b270","type":"file","file":"Screenshot 2024-04-03 162822.png","x":-760,"y":-32,"width":400,"height":259},
+		{"id":"c1978e5678cbb456","type":"file","file":"Screenshot 2024-04-03 163138.png","x":240,"y":-36,"width":399,"height":253},
+		{"id":"447c099a508dfe22","type":"text","text":"Eldritch Gear: The Clockwork Chronicles","x":-204,"y":840,"width":250,"height":60}
+	],
+	"edges":[
+		{"id":"464a44a8315249c1","fromNode":"fc0c916edcd0b12e","fromSide":"bottom","toNode":"57b7a2af9459de58","toSide":"top"},
+		{"id":"23948456e63e1e47","fromNode":"57b7a2af9459de58","fromSide":"bottom","toNode":"ebc72b29a8eb7f99","toSide":"top","label":"Change Sci-Fi to Steampunk"},
+		{"id":"800d702cd5ca2f94","fromNode":"5e0748091bc7b270","fromSide":"bottom","toNode":"ebc72b29a8eb7f99","toSide":"left","label":"Add Rule \"Safe in the dark\""},
+		{"id":"012af67e18023486","fromNode":"c1978e5678cbb456","fromSide":"bottom","toNode":"ebc72b29a8eb7f99","toSide":"right","label":"Add Theme \"Lovecraftian\""},
+		{"id":"2312bd394d95c4fa","fromNode":"ebc72b29a8eb7f99","fromSide":"bottom","toNode":"447c099a508dfe22","toSide":"top","label":"TRPG with Unconventional Movement in a lovecraftian steampunk game"}
+	]
+}
